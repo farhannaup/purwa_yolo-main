@@ -72,9 +72,9 @@ def analyze_construction_safety(classcounts):
         compliance = 0
 
     # Risk Level
-    if compliance >= 90:
+    if compliance >= 80:
         risk = "Low"
-    elif compliance >= 70:
+    elif compliance >= 65:
         risk = "Medium"
     else:
         risk = "High"
