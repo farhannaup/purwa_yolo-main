@@ -172,3 +172,7 @@ Network URL: http://192.168.x.x:8501
 4. **Lihat Hasil**:
    - Gambar dengan bounding boxes
    - Metrics jumlah objek per class
+
+
+### SAMPEL FOTO
+https://drive.google.com/drive/folders/14D48Z4gHS_FJmSwgi5GZ2yijFFEky_7R?usp=sharing
